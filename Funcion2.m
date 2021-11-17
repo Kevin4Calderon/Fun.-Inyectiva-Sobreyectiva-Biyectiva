@@ -15,7 +15,7 @@ x = [0: 1: 40];
 hx= (x.^2);
 % Plotear
 plot (x, hx);
-% Datos grafica
+% Datos grafica problema 2
 title (['La funcion x^2 es una funcion biyectiva'])
 disp ('Es inyectiva ya que los elementos del contradominio toman solo un elemento del dominio cada uno, sin repetirse')
 disp ('Es sobreyectiva ya que no le sobran elementos del dominio') 
