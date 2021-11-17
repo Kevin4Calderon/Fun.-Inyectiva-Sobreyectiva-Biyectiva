@@ -1,5 +1,5 @@
 % Octave Script
-% Title         :Funcion 1
+% Title         :Funcion 5
 % Author        :Kevin Yoan Calderón García
 % Description   :Script para funciones inyectiva, suprayectiva o biyectiva
 % Date          :20211115
